@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.crypto;
+=======
+package com.tencent.qqmusic.crypto;
+>>>>>>> Stashed changes
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

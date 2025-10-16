@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.cache;
+=======
+package com.tencent.qqmusic.cache;
+>>>>>>> Stashed changes
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

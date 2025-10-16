@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.lyric;
+=======
+package com.tencent.qqmusic.lyric;
+>>>>>>> Stashed changes
 
 import android.app.Activity;
 import android.content.Context;
@@ -26,7 +30,11 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+<<<<<<< Updated upstream
 import cn.toside.music.mobile.R;
+=======
+import com.tencent.qqmusic.R;
+>>>>>>> Stashed changes
 
 public class LyricView extends Activity implements View.OnTouchListener {
   LyricSwitchView textView = null;

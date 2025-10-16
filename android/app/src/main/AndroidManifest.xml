@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:tools="http://schemas.android.com/tools"
+<<<<<<< Updated upstream
   package="cn.toside.music.mobile">
+=======
+  package="com.tencent.qqmusic">
+>>>>>>> Stashed changes
 
     <!-- 获取读写外置存储权限 -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />

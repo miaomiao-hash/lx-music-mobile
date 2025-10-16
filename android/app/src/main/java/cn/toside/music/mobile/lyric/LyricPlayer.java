@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.lyric;
+=======
+package com.tencent.qqmusic.lyric;
+>>>>>>> Stashed changes
 
 import java.util.ArrayList;
 import java.util.Collections;

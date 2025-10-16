@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.userApi;
+=======
+package com.tencent.qqmusic.userApi;
+>>>>>>> Stashed changes
 
 import android.os.Bundle;
 import android.os.Handler;

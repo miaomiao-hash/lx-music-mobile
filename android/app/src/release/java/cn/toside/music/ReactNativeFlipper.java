@@ -4,7 +4,11 @@
  * <p>This source code is licensed under the MIT license found in the LICENSE file in the root
  * directory of this source tree.
  */
+<<<<<<< Updated upstream
 package cn.toside.music.mobile;
+=======
+package com.tencent.qqmusic;
+>>>>>>> Stashed changes
 
 import android.content.Context;
 import com.facebook.react.ReactInstanceManager;

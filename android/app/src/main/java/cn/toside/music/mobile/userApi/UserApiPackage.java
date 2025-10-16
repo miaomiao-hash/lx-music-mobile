@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.userApi;
+=======
+package com.tencent.qqmusic.userApi;
+>>>>>>> Stashed changes
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.lyric;
+=======
+package com.tencent.qqmusic.lyric;
+>>>>>>> Stashed changes
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

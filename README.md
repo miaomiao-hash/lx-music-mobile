@@ -1,3 +1,10 @@
+<<<<<<< Updated upstream
+=======
+## Lx Music适配Coloros流体云版本
+
+## 修改原包名“cn.toside.music.mobile”为椒盐音乐包名“com.tencent.qqmusic”
+
+>>>>>>> Stashed changes
 <p align="center"><a href="https://github.com/lyswhut/lx-music-mobile"><img width="200" src="https://github.com/lyswhut/lx-music-mobile/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
 
 <h1 align="center">LX Music 移动版</h1>

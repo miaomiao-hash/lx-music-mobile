@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.cache;
+=======
+package com.tencent.qqmusic.cache;
+>>>>>>> Stashed changes
 
 import android.content.Context;
 

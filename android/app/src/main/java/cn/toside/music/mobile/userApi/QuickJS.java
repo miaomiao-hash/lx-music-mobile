@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.userApi;
+=======
+package com.tencent.qqmusic.userApi;
+>>>>>>> Stashed changes
 
 import android.os.Build;
 import android.os.Bundle;
@@ -6,8 +10,13 @@ import android.os.Handler;
 import android.os.Message;
 import android.util.Base64;
 import android.util.Log;
+<<<<<<< Updated upstream
 import cn.toside.music.mobile.crypto.AES;
 import cn.toside.music.mobile.crypto.RSA;
+=======
+import com.tencent.qqmusic.crypto.AES;
+import com.tencent.qqmusic.crypto.RSA;
+>>>>>>> Stashed changes
 import com.facebook.react.bridge.ReactApplicationContext;
 
 import com.whl.quickjs.android.QuickJSLoader;
