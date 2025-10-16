@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.crypto;
+=======
+package com.tencent.qqmusic.crypto;
+>>>>>>> Stashed changes
 =======
 package com.tencent.qqmusic.crypto;
 >>>>>>> Stashed changes

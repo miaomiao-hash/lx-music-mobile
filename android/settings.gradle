@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 rootProject.name = 'cn.toside.music.mobile'
+=======
+rootProject.name = 'com.tencent.qqmusic'
+>>>>>>> Stashed changes
 =======
 rootProject.name = 'com.tencent.qqmusic'
 >>>>>>> Stashed changes

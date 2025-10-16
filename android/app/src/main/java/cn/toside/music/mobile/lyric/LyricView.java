@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.lyric;
+=======
+package com.tencent.qqmusic.lyric;
+>>>>>>> Stashed changes
 =======
 package com.tencent.qqmusic.lyric;
 >>>>>>> Stashed changes
@@ -31,7 +35,11 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import cn.toside.music.mobile.R;
+=======
+import com.tencent.qqmusic.R;
+>>>>>>> Stashed changes
 =======
 import com.tencent.qqmusic.R;
 >>>>>>> Stashed changes

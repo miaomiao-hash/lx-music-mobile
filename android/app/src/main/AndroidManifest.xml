@@ -1,7 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:tools="http://schemas.android.com/tools"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   package="cn.toside.music.mobile">
+=======
+  package="com.tencent.qqmusic">
+>>>>>>> Stashed changes
 =======
   package="com.tencent.qqmusic">
 >>>>>>> Stashed changes

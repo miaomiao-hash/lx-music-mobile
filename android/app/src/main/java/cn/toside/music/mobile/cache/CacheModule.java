@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.cache;
+=======
+package com.tencent.qqmusic.cache;
+>>>>>>> Stashed changes
 =======
 package com.tencent.qqmusic.cache;
 >>>>>>> Stashed changes
@@ -12,9 +16,15 @@ import com.facebook.react.bridge.ReactMethod;
 import java.io.File;
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import static cn.toside.music.mobile.cache.Utils.clearCacheFolder;
 import static cn.toside.music.mobile.cache.Utils.getDirSize;
 import static cn.toside.music.mobile.cache.Utils.isMethodsCompat;
+=======
+import static com.tencent.qqmusic.cache.Utils.clearCacheFolder;
+import static com.tencent.qqmusic.cache.Utils.getDirSize;
+import static com.tencent.qqmusic.cache.Utils.isMethodsCompat;
+>>>>>>> Stashed changes
 =======
 import static com.tencent.qqmusic.cache.Utils.clearCacheFolder;
 import static com.tencent.qqmusic.cache.Utils.getDirSize;

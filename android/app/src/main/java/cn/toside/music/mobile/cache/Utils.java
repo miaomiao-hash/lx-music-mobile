@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 package cn.toside.music.mobile.cache;
+=======
+package com.tencent.qqmusic.cache;
+>>>>>>> Stashed changes
 =======
 package com.tencent.qqmusic.cache;
 >>>>>>> Stashed changes

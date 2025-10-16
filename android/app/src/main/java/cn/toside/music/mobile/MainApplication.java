@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 package cn.toside.music.mobile;
+=======
+package com.tencent.qqmusic;
+>>>>>>> Stashed changes
 =======
 package com.tencent.qqmusic;
 >>>>>>> Stashed changes
@@ -14,17 +18,23 @@ import com.reactnativenavigation.react.NavigationReactNativeHost;
 import java.util.List;
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import cn.toside.music.mobile.cache.CachePackage;
 import cn.toside.music.mobile.crypto.CryptoPackage;
 import cn.toside.music.mobile.lyric.LyricPackage;
 import cn.toside.music.mobile.userApi.UserApiPackage;
 import cn.toside.music.mobile.utils.UtilsPackage;
 =======
+=======
+>>>>>>> Stashed changes
 import com.tencent.qqmusic.cache.CachePackage;
 import com.tencent.qqmusic.crypto.CryptoPackage;
 import com.tencent.qqmusic.lyric.LyricPackage;
 import com.tencent.qqmusic.userApi.UserApiPackage;
 import com.tencent.qqmusic.utils.UtilsPackage;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 public class MainApplication extends NavigationApplication {

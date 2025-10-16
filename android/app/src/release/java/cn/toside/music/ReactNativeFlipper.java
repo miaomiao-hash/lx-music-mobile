@@ -5,7 +5,11 @@
  * directory of this source tree.
  */
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 package cn.toside.music.mobile;
+=======
+package com.tencent.qqmusic;
+>>>>>>> Stashed changes
 =======
 package com.tencent.qqmusic;
 >>>>>>> Stashed changes
